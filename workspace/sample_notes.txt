@@ -1,0 +1,4 @@
+Project kickoff notes:
+- Target launch: Q1 2027
+- Owner: Platform team
+- Key risk: third-party API rate limits

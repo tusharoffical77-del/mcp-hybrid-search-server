@@ -1,0 +1,8 @@
+Information Security Policy
+
+All employees must enable two-factor authentication on their company
+accounts within their first week. Laptops are encrypted by default and
+must never be left unattended in public spaces. Suspected phishing
+emails should be reported to security@company.com immediately, not
+just deleted. Password managers are provided free of charge to all
+staff and are required for storing any work-related credentials.

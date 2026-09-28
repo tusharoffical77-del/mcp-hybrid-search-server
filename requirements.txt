@@ -1,0 +1,4 @@
+mcp>=1.28,<2
+rank_bm25>=0.2.2
+scikit-learn>=1.4.0
+pytest>=8.0.0
